@@ -117,6 +117,7 @@ nav a {
 }
 .hero-photo {
   width: 100%;
+  height: auto;
   border-radius: 22px;
   display: block;
   aspect-ratio: 1.5;
